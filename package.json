@@ -1,5 +1,5 @@
 {
-  "name": "capitalize-title",
+  "name": "@pabloadoue/capitalize-title",
   "version": "1.0.0",
   "description": "Capitalize the title of a string to make the first letter letter of each word uppercase and the rest of the word lowercase",
   "main": "lib/index.js",
