@@ -1,6 +1,6 @@
 {
   "name": "@pabloadoue/capitalize-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capitalize the title of a string to make the first letter letter of each word uppercase and the rest of the word lowercase",
   "main": "lib/index.js",
   "repository": "git@github.com:pabloadoue/capitalize-title.git",

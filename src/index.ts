@@ -44,6 +44,12 @@ export default function capitalizeTitle (input:string, skip?:string[], force?:st
         'S.A.S',
         'SAS',
         'S.A.S.',
+        'ILX',
+        'MDX',
+        'RDX',
+        'TLX',
+        'MG',
+        'BMW',
     ];
     if(force){
         alwaysCapitalize = force;
